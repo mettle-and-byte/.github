@@ -15,7 +15,7 @@ The **MnB Ultralight N17** is our first hardware product — a compact, NEMA17-s
 - 📡 CAN-FD communication for reliable, high-speed data transfer
 - 🧠 RP2350A MCU with TMC2240 motor driver (up to 3A @ 36V)
 - ⚡ Built-in braking resistor for overvoltage safety
-- 🔓 Fully open source hardware and firmware
+- 🔓 Open source firmware
 
 📦 **Repository:** [mettle-and-byte/ultralight-n17](https://github.com/mettle-and-byte/ultralight-n17)
 
