@@ -19,6 +19,8 @@ The **MnB Ultralight N17** is our first hardware product — a compact, NEMA17-s
 
 📦 **Repository:** [mettle-and-byte/ultralight-n17](https://github.com/mettle-and-byte/ultralight-n17)
 
+🎯 **Firmware:** [mettle-and-byte/UltraFoCced](https://github.com/mettle-and-byte/UltraFoCced) — SimpleFOC-based firmware enabling closed-loop phase stepping control
+
 ## 📍 Find Us
 
 - 🌐 Website: [mnb.ltd](https://mnb.ltd/)
